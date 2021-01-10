@@ -17,6 +17,7 @@ setup(name = 'pyaes',
       packages = ['pyaes'],
       classifiers = [
           'Topic :: Security :: Cryptography',
+          'Programming Language :: Python :: 3',
           'License :: OSI Approved :: MIT License',
       ],
       license = "License :: OSI Approved :: MIT License",
